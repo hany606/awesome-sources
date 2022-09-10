@@ -1,0 +1,23 @@
+﻿TODO,TODO What,Fav,Status,Importance,Title (If needed),Link,Type,Topic,Authors,Method,Small note,Year,Venue,Contributions & Claims,Motivation & Methodology,Results (What really was discovered),Limitations & Shortcomings,Appraisal & Pros,Possible developments & Future work,More & Notes to myself,Literature,lock,Created time
+,,Yes,Done,11,Guide,"Hightlighting:
+
+— Yellow: Important things (literature, background, reasoning, formulation, proof, …etc)
+
+— Red: Limitations & bad results
+
+— Green: Contributions & good results
+
+— Blue: Methodology
+
+— Purple: Did not understand
+",,,,,,,,"- What are the authors claiming in their paper? 
+
+- What are they contributing through their work?
+
+(Abstract, Introduction, and Conclusion)","- How are they solving the problem they are presenting?
+
+- What type of things are they using to do so, what the reasons behind using such a method?
+
+- What did they observe to motivate their work? What is the motivation?","- What did they obtain by using their methods and their experiments?
+
+- What went wrong, and what went good?",Which limitations and shortcomings do you see in their work? Or which limitations or assumptions they use?,"What thing is remarkably good and how, what is the intelligent idea that makes their idea stands out?",Which future work did the author mention? How do you see this work can be extended?,,,Yes,"September 10, 2022 7:25 PM"

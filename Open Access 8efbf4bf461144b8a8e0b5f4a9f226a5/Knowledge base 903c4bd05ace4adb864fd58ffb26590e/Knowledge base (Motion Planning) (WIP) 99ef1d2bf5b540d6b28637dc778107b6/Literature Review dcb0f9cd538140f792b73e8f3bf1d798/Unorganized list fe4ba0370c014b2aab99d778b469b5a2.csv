@@ -1,0 +1,43 @@
+﻿Status,Fav,Preliminary prioritization,Title (If needed),Link,Type,Topic,More,TODO
+Done,Yes,-1,nuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles,https://arxiv.org/pdf/2106.11810.pdf,"Paper, Survey","Autonomous Driving, Benchmark, Dataset, Motion Planning","Paper from Motional about their new dataset, 2022
+
+Very good for knowing how to benchmark, evaluate, which metrics to use, and as well it summarizes the learning-based methods in a good manner
+
+https://paperswithcode.com/paper/nuplan-a-closed-loop-ml-based-planning",
+Not started,No,0,"Real-time Motion Planning with Applications to
+Autonomous Urban Driving",http://acl.mit.edu/papers/KuwataTCST09.pdf,Survey,"Autonomous Driving, Motion Planning","Highly cited review paper from 2009 from ACL, MIT ",
+Not started,No,0,"A Survey of Autonomous Driving:
+Common Practices and Emerging Technologies",https://arxiv.org/pdf/1906.05113.pdf,Survey,Autonomous Driving,Seems has some interesting sources,
+Not started,No,0,A Review of Motion Planning for Highway Autonomous Driving,https://hal.archives-ouvertes.fr/hal-02923507/document,Survey,"Autonomous Driving, Motion Planning","citations +100, looks interesting
+
+https://ieeexplore.ieee.org/abstract/document/8715479",
+Not started,No,0,Active learning in robotics: A review of control principles,https://www.sciencedirect.com/science/article/pii/S0957415821000659,Survey,Decision-making,Interesting to read and know what is there in the literature,
+Not started,No,0,"A Review on Autonomous Vehicles: Progress, Methods and Challenges",https://www.mdpi.com/2079-9292/11/14/2162,Survey,Autonomous Driving,"Seems general interesting survey paper, skim it first",
+Not started,No,0,A Survey of Deep Reinforcement Learning Algorithms for Motion Planning and Control of Autonomous Vehicles,https://ieeexplore.ieee.org/abstract/document/9575880,Survey,"Autonomous Driving, Motion Planning, RL",IV 2021,
+Not started,No,0,"Deep Reinforcement Learning
+for Autonomous Driving: A Survey",https://arxiv.org/pdf/2002.00444.pdf,Survey,"Autonomous Driving, RL",,
+Not started,No,0,A Survey of Deep Learning Techniques for Autonomous Driving,https://arxiv.org/pdf/1910.07738.pdf,Survey,"Autonomous Driving, Learning-based",2020 for DL in SDC,
+Not started,No,0,A Review of Motion Planning Techniques for Automated Vehicles,https://ieeexplore.ieee.org/abstract/document/7339478,Survey,"Autonomous Driving, Motion Planning","Good starting point but it is not enough at all, it does not have a classification for motion planning modules + it does not say anything about learning-based methods",
+Not started,No,0,A Review of End-to-End Autonomous Driving in Urban Environments,https://ieeexplore.ieee.org/abstract/document/9832636,Survey,"Autonomous Driving, end-to-end",Check it first,
+Not started,No,0,Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions,https://www.sciencedirect.com/science/article/pii/S0968090X15003447,"Paper, Survey","Autonomous Driving, Motion Planning","From 2015, +700 citations, seems good to understand the old",
+Not started,No,0,Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles,https://ieeexplore.ieee.org/abstract/document/9210154,Survey,"Autonomous Driving, Motion Planning, RL","Interesting to check as it is 2022
+
+https://journals.sagepub.com/doi/full/10.1177/03611981211035764",
+Not started,No,0,Recent advances in motion and behavior planning techniques for software architecture of autonomous vehicles: A state-of-the-art survey,https://www.sciencedirect.com/science/article/pii/S0952197621000580?via%3Dihub,Survey,"Autonomous Driving, Motion Planning",Interesting survey to start with,
+Not started,No,0,"A Survey of Motion Planning and Control
+Techniques for Self-driving Urban Vehicles",https://arxiv.org/pdf/1604.07446.pdf,Survey,"Autonomous Driving, Motion Planning","From MIT and high citations +1K (2016)
+
+https://ieeexplore.ieee.org/abstract/document/7490340",Run connected papers to it
+Not started,No,0,A Survey of Deep Learning Applications to Autonomous Vehicle Control,https://ieeexplore.ieee.org/abstract/document/8951131,Survey,"Autonomous Driving, Learning-based","2021, it has good literature, run connected papers",
+Done,Yes,0,A review of motion planning algorithms for intelligent robots,https://link.springer.com/article/10.1007/s10845-021-01867-z,Survey,"Mobile-robot, Motion Planning","Interesting review and important to read it, 2022",
+Not started,No,1,"Learn-to-Race Challenge 2022: Benchmarking Safe Learning and
+Cross-domain Generalisation in Autonomous Racing",https://arxiv.org/pdf/2205.02953.pdf,Survey,"RL, Racing",Review paper for the challenge outcomes,
+Not started,No,1,Planning and Decision-Making for Autonomous Vehicles,https://www.annualreviews.org/doi/abs/10.1146/annurev-control-060117-105157,Survey,"Autonomous Driving, Decision-making, Motion Planning",Check it. From 2021,
+Not started,No,2,"A Review of Mobile Robot Motion Planning
+Methods: from Classical Motion Planning
+Workflows to Reinforcement Learning-based
+Architectures",https://arxiv.org/pdf/2108.13619.pdf,Survey,"Mobile-robot, Motion Planning",2022,
+Not started,No,6,"A Review of Mobile Robot Motion Planning
+Methods: from Classical Motion Planning
+Workflows to Reinforcement Learning-based
+Architectures",https://arxiv.org/pdf/2108.13619.pdf,Survey,"Mobile-robot, Motion Planning, RL",Interesting paper for mobile robots,
