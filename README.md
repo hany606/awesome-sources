@@ -21,7 +21,9 @@ This repository is created to share my list of sources that I usually find throu
 > At the current moment, I am trying to work on the intersection between RL (esp. MARL) and the motion planning problem in self-driving cars as a part of [VDC Lab](http://vdclab.kaist.ac.kr/bbs/board.php?bo_table=sub1_2)
 > 
 
-# Contac
+# Contacts:
+https://hany606.github.io/contact
+
 
 # Description:
 
@@ -50,3 +52,7 @@ Awesome tips: https://github.com/jbhuang0604/awesome-tips
 [Research](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Research%20262ac226de724c69ac488aa2fc0c3560.md)
 
 [Knowledge base](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Knowledge%20base%20903c4bd05ace4adb864fd58ffb26590e.md)
+
+# Note:
+
+I am not that experienced person, I am still learning. Thus, most probably there are some mistakes there. I will be glad for any feedback and any advice for me :)
