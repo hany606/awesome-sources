@@ -1,16 +1,16 @@
 # Graduate studies & work
 
-[Mentoring](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Mentoring%206e8c880ecdfe49c592deb1ac6f3526a6.csv)
+[Mentoring](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Mentoring%206e8c880ecdfe49c592deb1ac6f3526a6.md)
 
 ## Great source for AI residency: https://github.com/dangkhoasdc/awesome-ai-residency
 
 [Docs](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Docs%2059ecd19cf68846c1ab66b3899d77bfc0.md)
 
-[Scholarships](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Scholarships%20f6deb99df7dc4957a95ea8d435fa032a.csv)
+[Scholarships](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Scholarships%20f6deb99df7dc4957a95ea8d435fa032a.md)
 
-[Companies/Labs & internships & Summer schools](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Companies%20Labs%20&%20internships%20&%20Summer%20schools%201e96050463e8437bab1fb1aab6c5a18a.csv)
+[Companies/Labs & internships & Summer schools](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Companies%20Labs%20&%20internships%20&%20Summer%20schools%201e96050463e8437bab1fb1aab6c5a18a.md)
 
-[Universities](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Universities%201cd016df39f0497d9c482877708f03b8.csv)
+[Universities](Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4/Universities%201cd016df39f0497d9c482877708f03b8.md)
 
 # Tips
 
