@@ -9,5 +9,3 @@ Personal Statement vs SoP
 
 > A personal statement is your application for studying at a particular college or university. It gives you a chance to articulate why you’d like to study a particular course or subject, and what skills and experience you possess that reflects your passion for the chosen field of study. This essay should demonstrate your readiness for the chosen field and why you are applying for a particular program.
 > 
-
-[https://docs.google.com/document/d/1scfAhRIfD1cNnajHUXMy9g17ssLXPHbRGB-nRK9EQyQ/edit?usp=sharing](https://docs.google.com/document/d/1scfAhRIfD1cNnajHUXMy9g17ssLXPHbRGB-nRK9EQyQ/edit?usp=sharing)
