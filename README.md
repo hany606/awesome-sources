@@ -2,8 +2,11 @@
 
 This repository is created to share my list of sources that I usually find through the internet (Twitter, Google, Reddit, friends' recommendations, ...etc)
 
+You can view this better in Notion (I really recommend that) https://hany606.notion.site/Open-Access-48bf22cbb0944f02a29c1177a8898c16
 
-# Updated: 10.09.2022
+I will be always updating the Notion version and once in a while, I will push the updates here.
+
+### Updated: 10.09.2022
 
 # Who am I?
 
@@ -56,3 +59,5 @@ Awesome tips: https://github.com/jbhuang0604/awesome-tips
 # Note:
 
 I am not that experienced person, I am still learning. Thus, most probably there are some mistakes there. I will be glad for any feedback and any advice for me :)
+
+I will be happy for any pull requests
