@@ -6,6 +6,18 @@ You can view this better in Notion (I really recommend that) https://hany606.not
 
 I will be always updating the Notion version and once in a while, I will push the updates here.
 
+
+- Awesome tips: https://github.com/jbhuang0604/awesome-tips
+
+- [Learning sources](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Learning%204c9062c42f87484c9721362cce2d3367.md)
+
+- [Graduate studies & work](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4.md)
+
+- [Research](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Research%20262ac226de724c69ac488aa2fc0c3560.md)
+
+- [Research Knowledge base](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Knowledge%20base%20903c4bd05ace4adb864fd58ffb26590e.md)
+
+
 ### Updated: 10.09.2022
 
 # Who am I?
@@ -46,15 +58,6 @@ You can contribute directly in GitHub through pull requests
 
 - Hany Hamed: [https://github.com/hany606](https://github.com/hany606)
 
-Awesome tips: https://github.com/jbhuang0604/awesome-tips
-
-[Learning](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Learning%204c9062c42f87484c9721362cce2d3367.md)
-
-[Graduate studies & work](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Graduate%20studies%20&%20work%20f6fe819015ad4e999e18b5f3622223e4.md)
-
-[Research](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Research%20262ac226de724c69ac488aa2fc0c3560.md)
-
-[Knowledge base](Open%20Access%208efbf4bf461144b8a8e0b5f4a9f226a5/Knowledge%20base%20903c4bd05ace4adb864fd58ffb26590e.md)
 
 # Note:
 
